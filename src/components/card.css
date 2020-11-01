@@ -1,0 +1,27 @@
+.card{
+  border:1px solid #e6e6e6;
+  height: 400px;
+  padding:32px;
+  width:80%;
+  margin:32px auto
+}
+
+.card-title{
+  color:#444444;
+  font-weight:bold;
+  font-size: 16px;
+  margin-bottom:16px
+}
+
+.card-subtitle{
+  color:#333;
+  font-weight: bold;
+  font-size: 20px;
+  margin:8px 0;
+}
+
+.color-box{
+  height:20px;
+  width: 20px;
+  margin-right: 8px;
+}

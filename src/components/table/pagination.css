@@ -1,0 +1,18 @@
+.container{
+  width: 40%;
+  margin:16px auto;
+ 
+}
+
+.navigatorButton{
+  border:1px solid #e6e6e6;
+  color:#444;
+  background-color: transparent;
+  cursor: pointer;
+  margin:0 8px;
+}
+
+.page-input{
+  width:30px;
+  margin-right:4px
+}
